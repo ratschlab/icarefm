@@ -15,9 +15,13 @@ This is the root repository for ICareFM. We provide an overview of the associate
 
 ## Model
 
-## Publications and Experiments
+## Experiments and Results
 
-## Citations
+## Publications
+
+- Early Workshop Paper highlighting data harmonization efforts and large benchmarking: [Towards Foundation Models for Critical Care Time Series](https://arxiv.org/abs/2411.16346)
+
+### Citations
 
 Workshop Paper highlighting early progress on creating a large-scale harmonized critical care dataset [Towards Foundation Models for Critical Care Time Series](https://arxiv.org/abs/2411.16346):
 ```
