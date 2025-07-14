@@ -12,11 +12,11 @@ This is the root repository for ICareFM. We provide an overview of the associate
 
 ## Data
 
-We are working hard to create an easy to access and download version of our large-scale multi-center harmonized dataset available on the
+We are working hard to create an easy to access and one-click-download version of our large-scale multi-center harmonized dataset available on the
 [Physionet](https://physionet.org/) platform. Watch this space for news on this development and effort.
 
 For data harmonization we use the `ricu` tool written in the R programming language:
-- Our extended fork of the `ricu` data harmonization tool: {tbd}
+- Our extended fork of the `ricu` data harmonization tool: `{tbd}`
 - Original data harmonization tool `ricu` source repository: https://github.com/eth-mds/ricu
 
 ## Model
