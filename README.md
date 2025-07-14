@@ -1,4 +1,4 @@
-![ICU Foundation Model Logo](resources/logo/repo_title_banner_2048.png)
+![ICU Foundation Model Logo](resources/logo/repo_title_banner_icarefm.png)
 
 # ICareFM
 
