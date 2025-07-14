@@ -1,3 +1,5 @@
+![ICU Foundation Model Logo](resources/logo/repo_title_banner_2048.png)
+
 # ICareFM
 
 > A Foundation Model for Intensive Care Unlocking Generalization across Tasks and Domains at Scale
