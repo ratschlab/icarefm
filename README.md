@@ -8,6 +8,7 @@ This is the root repository for ICareFM. We provide an overview of the associate
 
 ## News
 
+- August 20. 2025: Preview version of [A Foundation Model for Intensive Care: Unlocking Generalization across Tasks and Domains at Scale](https://www.medrxiv.org/content/10.1101/2025.07.25.25331635v1) posted on medRxiv
 - December 14. 2024: Best Paper Award at [AIM-FM @ NeurIPS](https://aim-fm-24.github.io/NeurIPS/) for [Towards Foundation Models for Critical Care Time Series](https://arxiv.org/abs/2411.16346)
 
 ## Data
@@ -25,9 +26,25 @@ For data harmonization we use the `ricu` tool written in the R programming langu
 
 ## Publications
 
+- Preview manuscript of our foundation model and dataset release: [A Foundation Model for Intensive Care: Unlocking Generalization across Tasks and Domains at Scale](https://www.medrxiv.org/content/10.1101/2025.07.25.25331635v1)
 - Early Workshop Paper highlighting data harmonization efforts and large benchmarking: [Towards Foundation Models for Critical Care Time Series](https://arxiv.org/abs/2411.16346)
 
 ### Citations
+
+The medRxiv preview of [A Foundation Model for Intensive Care: Unlocking Generalization across Tasks and Domains at Scale](https://www.medrxiv.org/content/10.1101/2025.07.25.25331635v1):
+```
+@article {Burger2025.07.25.25331635,
+	author = {Burger, Manuel and Chopard, Daphn{\'e} and Londschien, Malte and Sergeev, Fedor and Y{\`e}che, Hugo and Kuznetsova, Rita and Faltys, Martin and Gerdes, Eike and Leshetkina, Polina and B{\"u}hlmann, Peter and R{\"a}tsch, Gunnar},
+	title = {A Foundation Model for Intensive Care: Unlocking Generalization across Tasks and Domains at Scale},
+	elocation-id = {2025.07.25.25331635},
+	year = {2025},
+	doi = {10.1101/2025.07.25.25331635},
+	publisher = {Cold Spring Harbor Laboratory Press},
+	URL = {https://www.medrxiv.org/content/early/2025/07/25/2025.07.25.25331635},
+	eprint = {https://www.medrxiv.org/content/early/2025/07/25/2025.07.25.25331635.full.pdf},
+	journal = {medRxiv}
+}
+```
 
 Workshop Paper highlighting early progress on creating a large-scale harmonized critical care dataset [Towards Foundation Models for Critical Care Time Series](https://arxiv.org/abs/2411.16346):
 ```
@@ -41,6 +58,8 @@ Workshop Paper highlighting early progress on creating a large-scale harmonized 
       url={https://arxiv.org/abs/2411.16346}, 
 }
 ```
+
+#### Please also cite:
 
 If you use our work on data harmonization please consider citing the original authors work on the `ricu` package:
 ```
