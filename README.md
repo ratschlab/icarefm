@@ -8,6 +8,7 @@ This is the root repository for ICareFM. We provide an overview of the associate
 
 ## News
 
+- December 1. 2025: Spotlight Talk at ML4H in San Diego
 - August 20. 2025: Preview version of [A Foundation Model for Intensive Care: Unlocking Generalization across Tasks and Domains at Scale](https://www.medrxiv.org/content/10.1101/2025.07.25.25331635v1) posted on medRxiv
 - December 14. 2024: Best Paper Award at [AIM-FM @ NeurIPS](https://aim-fm-24.github.io/NeurIPS/) for [Towards Foundation Models for Critical Care Time Series](https://arxiv.org/abs/2411.16346)
 
