@@ -65,7 +65,7 @@ Workshop Paper highlighting early progress on creating a large-scale harmonized 
 If you use our work on data harmonization please consider citing the original authors work on the `ricu` package:
 ```
 @article{bennett2023ricu,
-  title={ricu: R’s interface to intensive care data},
+  title={ricu: R's interface to intensive care data},
   author={Bennett, Nicolas and Ple{\v{c}}ko, Drago and Ukor, Ida-Fong and Meinshausen, Nicolai and B{\"u}hlmann, Peter},
   journal={GigaScience},
   volume={12},
@@ -74,4 +74,3 @@ If you use our work on data harmonization please consider citing the original au
   publisher={Oxford University Press}
 }
 ```
-
